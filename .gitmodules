@@ -1,0 +1,3 @@
+[submodule "lib"]
+	path = lib
+	url = ssh://git@bitbucket.devops.wepay-inc.com:7999/~matthewt/prototool-lib.git
